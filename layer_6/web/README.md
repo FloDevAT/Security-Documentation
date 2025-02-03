@@ -16,13 +16,13 @@ With the majority of modern applications being web-based, **web exploitation** i
 
 ## 📚 Chapters
 
-### 🔍 [SQL Injection (SQLi)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_7/web/sqli)
+### 🔍 [SQL Injection (SQLi)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_6/web/sqli)
 *Manipulating database queries via user input to gain unauthorized access.*
 
-### 🖥️ [Server-Side Template Injection (SSTI)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_7/web/ssti)
+### 🖥️ [Server-Side Template Injection (SSTI)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_6/web/ssti)
 *Exploiting template engines to execute arbitrary code on the server.*
 
-### ⚠️ [Cross-Site Scripting (XSS)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_7/web/xss)
+### ⚠️ [Cross-Site Scripting (XSS)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_6/web/xss)
 *Injecting malicious scripts into web pages viewed by other users.*
 
 ---
