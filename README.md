@@ -1,6 +1,6 @@
-# Security Documentation
+# 🛡️ Security Documentation
 
-<pre style="color: lime">
+```
    ___    _______   ________  ___  ___  ________  ___  _________    ___    ___ 
  _|\  \__|\  ___ \ |\   ____\|\  \|\  \|\   __  \|\  \|\___   ___\ |\  \  /  /|
 |\   ____\ \   __/|\ \  \___|\ \  \\\  \ \  \|\  \ \  \|___ \  \_| \ \  \/  / /
@@ -11,24 +11,40 @@
    |\___    __\                                                   \|___|/      
    \|___|\__\_|                                                                
         \|__|                                                                  
-</pre>
+```
 
+## 📖 Introduction
 
-## Introduction
+Welcome to the **Security Documentation Repository**! 🛡️ This repository serves as a centralized hub for all my cybersecurity-related documents. It is structured according to the **OSI Model**, breaking down security considerations into its **seven layers** (plus an additional layer for user-related concerns).
 
-The purpose of this repository is to create a centralized location to story my documents concerning cybersecurity topics. 
+## 📚 Chapters
 
-I have split the documents into the 8 (actually only 7) layers of the OSI Model.
+Each chapter corresponds to a specific layer of the OSI Model:
 
-## Chapters
+### 🔌 [Physical Layer (Layer 1)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_1)
+*Focus: Hardware Hacking, Lockpicking, RFID and NFC, Side Channel Attacks*
 
-Here is a quick overview of the chapters:
+### 🔗 [Data Link Layer (Layer 2)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_2)
+*Focus: Layer 2 Spoofing, Man In The Middle, Reocn, Wireless Security*
 
-- ### [Physical Layer (Layer 1)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_1)
-- ### [Data Link Layer (Layer 2)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_2)
-- ### [Network Layer (Layer 3)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_3)
-- ### [Transport Layer (Layer 4)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_4)
-- ### [Session Layer (Layer 5)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_5)
-- ### [Presentation Layer (Layer 6)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_6)
-- ### [Application Layer (Layer 7)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_7)
-- ### [User Layer (Layer 8)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_8)
+### 🌐 [Network Layer (Layer 3)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_3)
+*Focus: C2, DDoS, GHDB, Shodan*
+
+### 🚚 [Transport Layer (Layer 4)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_4)
+*Focus: Firewall, Pentesting, Portscan, RATS, Rootkits, UTM,
+VPN*
+
+### 🔄 [Session Layer (Layer 5)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_5)
+*Focus: Blue Teaming, Keylogger, Password Cracking, Password Management, Password Sniffer, Two-Factor-Authentication*
+
+### 🎭 [Presentation Layer (Layer 6)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_6)
+*Focus: Crypto, Forensics and Stenography, Web*
+
+### 🌍 [Application Layer (Layer 7)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_7)
+*Focus: Android, Assembler, iOS, Linux, Malware Analysis, Metasploit, Reverse Engineering, Windows*
+
+### 👥 [User Layer (Layer 8)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_8)
+*Focus: Government Agencies, Social Engineering, TOR and Darknet*
+
+---
+🔐 **Stay Secure!** 🚀
