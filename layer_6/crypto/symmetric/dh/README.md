@@ -10,11 +10,11 @@
     \|_______|\|__|\|__|    \|__|    \|__|\|_______|               \|__|\|__|\|_______|\|_______|\|_______|\|__|     \|__|\|__|\|__|\|__| \|__|\|__| \|__|
 ```
 
-## General Information
+## 📖 General Information
 
 A major problem with the usage of symmetric algorithms for cryptography is the secure exchange of PSKs (pre-shared-keys) over an unsecured channel. In order to solve this problem, there is the Diffie-Hellmann approach, which allows the exchange of PKSs over an unsecured channel.
 
-## How it works 
+## 📖 How it works 
 
 The concept between Diffi-Hellmann is quite easy and can easily be explained with the use of colors:
 
@@ -38,7 +38,7 @@ However, in cryptography we want to use numbers instead of colors. This is the c
 Now Alice and Bob have successfully exchanged a PSK which can be used as a key in symmetric encryption.
 
 
-## Simple Implementation
+## 🐍 Simple Implementation
 
 In order to demonstrate this, I have implemented a little Python script that shows a successful implementation of Diffi-Hellmann:
 
