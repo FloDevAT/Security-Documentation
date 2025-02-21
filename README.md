@@ -46,5 +46,67 @@ VPN*
 ### 👥 [User Layer (Layer 8)](https://github.com/FloDevAT/Security-Documentation/tree/master/layer_8)
 *Focus: Government Agencies, Social Engineering, TOR and Darknet*
 
+## TODO:
+
+Since this project will take longer, here is a little checklist that will show, which chapters are already included and finished:
+
+- [ ] Layer 1
+  - [ ] Hardware Hacking
+  - [ ] Lockpicking
+  - [ ] RFID, NFC
+  - [ ] Side Channel Attacks
+- [ ] Layer 2
+  - [ ] Layer 2 Spoofing
+  - [ ] Man In The Middle
+  - [ ] Reconnaissance
+  - [ ] Wireless Security
+- [ ] Layer 3
+  - [ ] C2
+  - [ ] DDoS
+  - [ ] GHDB
+  - [ ] Shodan
+- [ ] Layer 4
+  - [ ] Firewall
+  - [ ] Pentesting
+  - [ ] Portscan
+    - [ ] NMAP    
+  - [ ] Rats
+  - [ ] Rootkits
+  - [ ] UTM
+  - [ ] VPN
+- [ ] Layer 5
+  - [ ] Blue Teaming
+  - [ ] Keylogger
+  - [ ] Password Cracking
+  - [ ] Password Management
+  - [ ] Password Sniffer
+  - [ ] Two Factor Authentication
+- [ ] Layer 6
+  - [ ] Crypto
+    - [ ] Asymmetric
+        - [ ] Rivest–Shamir–Adleman (RSA)
+    - [ ] Symmentric
+      - [ ] Classic Encryption
+      - [X] Diffie-Hellmann
+      - [ ] Advanced Encryption Standard (AES)  
+    - [ ] Forensics / Stenography
+  - [ ] Web
+    - [ ] SQL Injection (SQLi)
+    - [ ] Server-Side-Template-Injection (SSTI)
+    - [ ] Cross-Site-Scripting (XSS)
+    - ...
+- [ ] Layer 7
+  - [ ] Android
+  - [ ] Assembler
+  - [ ] iOS
+  - [ ] Linux
+  - [ ] Malware Analysis
+  - [ ] Metasploit
+  - [ ] Reverse Engineering
+  - [ ] Windows
+- [ ] Layer 8
+  - [ ] Government Agencies
+  - [ ] Social Engineering
+  - [ ] Tor / Darknet 
 ---
 🔐 **Stay Secure!** 🚀
