@@ -52,6 +52,33 @@ Here we use `-sT` which scans for TCP ports, `-sU` which scans for UDP ports and
 
 ### Scanning Aggressive
 
+The last flag we will have a look on is `-A` which stands for "scan aggresive". This option enables following other flags:
+
+- OS detection (-O)
+- Version detection (-sV)
+- Script scanning (-sC)
+- Traceroute (--traceroute)
+
+
+```bash
+nmap -A 192.168.100.10
 ```
 
+This results in this more reasonable output:
+
 ```
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-02-24 09:01 CET
+Nmap scan report for 192.168.100.10
+Host is up (0.00013s latency).
+Not shown: 999 closed tcp ports (conn-refused)
+PORT     STATE SERVICE VERSION
+4000/tcp open  http    Werkzeug httpd 3.1.3 (Python 3.11.2)
+|_http-title: Kaindorf Cafeteria
+|_http-server-header: Werkzeug/3.1.3 Python/3.11.2
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.30 seconds
+```
+
+----
+🔐 Close Unused Ports! 🚀

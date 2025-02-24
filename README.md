@@ -68,8 +68,8 @@ Since this project will take longer, here is a little checklist that will show, 
 - [ ] Layer 4
   - [ ] Firewall
   - [ ] Pentesting
-  - [ ] Portscan
-    - [ ] NMAP    
+  - [X] Portscan
+    - [X] NMAP    
   - [ ] Rats
   - [ ] Rootkits
   - [ ] UTM
